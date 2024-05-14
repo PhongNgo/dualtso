@@ -150,7 +150,3 @@ License
    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
    General Public License for more details.
 
-Contact / Bug Report
-====================
-
-   Feedback, questions or bug reports should be directed to Tuan Phong Ngo (tuanphong.ngo@gmail.com).
